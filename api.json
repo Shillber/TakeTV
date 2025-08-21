@@ -1,0 +1,16 @@
+[
+  {
+    '资源':'如意',
+    '搜索':'https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/?wd=%s&ac=detail',
+    '图片':'list>vod_pic',
+    '名称':'list>vod_name',
+    '其他':'list>vod_remarks+list>vod_time',
+  },
+  {
+    '资源':'爱坤',
+    '搜索':'https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/?wd=%s&ac=detail',
+    '图片':'list>vod_pic',
+    '名称':'list>vod_name',
+    '其他':'list>vod_remarks+list>vod_time',
+  },
+]
